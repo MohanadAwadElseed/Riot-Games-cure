@@ -29,7 +29,7 @@ Welcome to the ultimate digital intervention. This repository contains a high-pr
 To deploy your new mechanical supervisor, open PowerShell as an **Administrator** and execute the script:
 
 ```powershell
-& "C:\Your\Path\To\Regret\block_riot.ps1"
+& "Fix_Your_life.sh"
 
 ```
 
